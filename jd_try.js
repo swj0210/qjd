@@ -20,7 +20,7 @@
 const $ = new Env('京东试用')
 let allMessage = '';
 let cookiesArr = [],
-	cookie = '',
+	cookie = 'pt_key=AAJg0VNuADAc0v4QWzuBIOvzhjbwkEeWkpTawqgJflzA2J_22IF5tB_HIJ1s4F83C7TaMXgmpbk;pt_pin=15603690898_p;',
 	jdNotify = false,
 	jdDebug = false,
 	notify
